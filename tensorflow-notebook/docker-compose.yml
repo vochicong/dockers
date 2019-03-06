@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  renom:
+    build:
+      context: .
+      target: renom
+    volumes:
+       - .:/home/jovyan/work
+    ports:
+      - 8888:8888
