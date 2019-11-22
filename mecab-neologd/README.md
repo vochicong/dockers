@@ -1,7 +1,7 @@
 # MeCab+NEologd in Docker
 
 A container of [MeCab+NEologd](https://github.com/neologd/mecab-ipadic-neologd.git), 
-pushed to [Docker Hub](https://hub.docker.com/repository/docker/vochicong/mecab-ipadic-neologd).
+pushed to https://hub.docker.com/r/vochicong/mecab-ipadic-neologd.
 
 ## Usage
 
